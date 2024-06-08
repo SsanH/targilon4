@@ -1,8 +1,8 @@
 # targilon4
 
+https://github.com/SsanH/targilon4
 
-
-![Image 1](proof/1.jpg)
+![Image 1](proof/1_part2.png)
 ![Image 2](proof/2.jpg)
 ![Image 3](proof/3.jpg)
 ![Image 4](proof/4.jpg)
